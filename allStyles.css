@@ -1,0 +1,9 @@
+@import './style/normalize.css';
+@import './style/style.css';
+@import './style/header/header.css';
+@import './style/notonly/notonly.css';
+@import './style/about/about.css';
+@import './style/ourfiends/ourfiends.css';
+@import './style/help/help.css';
+@import './style/inaddition/inaddition.css';
+@import './style/footer/footer.css';
